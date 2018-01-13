@@ -1,0 +1,27 @@
+h1 {
+	font-family: "Arial";
+}
+
+h4 {
+	font-style: italic;
+}
+
+
+.logo {
+    width:2.5%;
+    margin-right:2%;
+    float: left;
+}
+
+.logo_name {
+    float: left;
+}
+
+.clearfix {
+    clear:both
+}
+
+marquee {
+	font-family: "Arial";
+	font-style: italic;
+}
